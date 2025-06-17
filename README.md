@@ -10,3 +10,4 @@ Deskripsi Program  :  Program ini merupakan sebuah permainan dadu sederhana yang
 Screenshot program (link Google Drive)  :  https://drive.google.com/drive/folders/1trn8Ji63bPP2RBZPVZuFpKtBxswMLS2X?usp=drive_link
 ==============================================================
 Link Video YouTube  :  https://youtu.be/5O8yowZGomY
+==============================================================
