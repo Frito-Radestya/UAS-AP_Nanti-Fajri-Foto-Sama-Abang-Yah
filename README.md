@@ -1,4 +1,4 @@
-Nama Kelompok  : Nanti Fajri Foto Sama Abang Yah
+Nama Kelompok  : Nanti Fazri Foto Sama Abang Yah
 ==============================================================
 Nama Anggota   :
 - Muhammad Al Farel Azhar (241401009)
