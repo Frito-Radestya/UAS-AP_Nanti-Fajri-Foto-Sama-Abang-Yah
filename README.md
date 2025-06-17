@@ -4,6 +4,7 @@ Nama Anggota   :
 - Muhammad Al Farel Azhar (241401009)
 - Ahmad Fazri Berutu (241401015)
 - Frito Radestya. S (241401030)
+- Blessly Victory Silaban (241401060)
 - Deofajar Jhonropinus Situmorang (241401102)
 ==============================================================               
 
