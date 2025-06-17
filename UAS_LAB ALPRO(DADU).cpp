@@ -38,10 +38,11 @@ int main() {
     do {
         int jumlahPemain, targetSkor;
 
-        cout << "=============================================" << endl;
-        cout << "Selamat Datang Di Game Dadu Kelompok Ya Ya Ya" << endl;
-        cout << "=============================================" << endl;
+        cout << "====================================================================" << endl;
+        cout << "Selamat Datang Di Game Dadu Kelompok Nanti Fajri Foto Sama Abang Yah" << endl;
+        cout << "====================================================================" << endl;
         cout << "NOTE : Pemain Maksimal Berjumlah 5 Orang" << endl << endl;
+        cout << "NOTE : Score Maksimal 18" << endl << endl;
 
         do {
             cout << "Masukkan jumlah pemain : ";
